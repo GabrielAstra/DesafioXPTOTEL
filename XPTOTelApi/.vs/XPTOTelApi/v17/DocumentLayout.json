@@ -1,0 +1,222 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gabriel\\Desktop\\DesafioXPTOTel\\XPTOTelApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85F66443-0B8A-45E3-AFFA-4BC6ABD5963A}|XPTOTelApi\\XPTOTelApi.csproj|c:\\users\\gabriel\\desktop\\desafioxptotel\\xptotelapi\\xptotelapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F66443-0B8A-45E3-AFFA-4BC6ABD5963A}|XPTOTelApi\\XPTOTelApi.csproj|solutionrelative:xptotelapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A75DC56A-F955-4C17-B6C9-3A9039F1CB5A}|Aplicacao\\Aplicacao.csproj|c:\\users\\gabriel\\desktop\\desafioxptotel\\xptotelapi\\aplicacao\\aplicacoes\\handlers\\obtercustoshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A75DC56A-F955-4C17-B6C9-3A9039F1CB5A}|Aplicacao\\Aplicacao.csproj|solutionrelative:aplicacao\\aplicacoes\\handlers\\obtercustoshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F66443-0B8A-45E3-AFFA-4BC6ABD5963A}|XPTOTelApi\\XPTOTelApi.csproj|c:\\users\\gabriel\\desktop\\desafioxptotel\\xptotelapi\\xptotelapi\\controllers\\custoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F66443-0B8A-45E3-AFFA-4BC6ABD5963A}|XPTOTelApi\\XPTOTelApi.csproj|solutionrelative:xptotelapi\\controllers\\custoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F66443-0B8A-45E3-AFFA-4BC6ABD5963A}|XPTOTelApi\\XPTOTelApi.csproj|c:\\users\\gabriel\\desktop\\desafioxptotel\\xptotelapi\\xptotelapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F66443-0B8A-45E3-AFFA-4BC6ABD5963A}|XPTOTelApi\\XPTOTelApi.csproj|solutionrelative:xptotelapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B301BCC8-CEA9-4AF0-B6DA-C816CDC38F79}|XPTOTel.testes\\XPTOTel.testes.csproj|c:\\users\\gabriel\\desktop\\desafioxptotel\\xptotelapi\\xptotel.testes\\calculadoratestes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B301BCC8-CEA9-4AF0-B6DA-C816CDC38F79}|XPTOTel.testes\\XPTOTel.testes.csproj|solutionrelative:xptotel.testes\\calculadoratestes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A75DC56A-F955-4C17-B6C9-3A9039F1CB5A}|Aplicacao\\Aplicacao.csproj|c:\\users\\gabriel\\desktop\\desafioxptotel\\xptotelapi\\aplicacao\\aplicacoes\\consultas\\obtercustos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A75DC56A-F955-4C17-B6C9-3A9039F1CB5A}|Aplicacao\\Aplicacao.csproj|solutionrelative:aplicacao\\aplicacoes\\consultas\\obtercustos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A75DC56A-F955-4C17-B6C9-3A9039F1CB5A}|Aplicacao\\Aplicacao.csproj|c:\\users\\gabriel\\desktop\\desafioxptotel\\xptotelapi\\aplicacao\\aplicacoes\\consultas\\obterusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A75DC56A-F955-4C17-B6C9-3A9039F1CB5A}|Aplicacao\\Aplicacao.csproj|solutionrelative:aplicacao\\aplicacoes\\consultas\\obterusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A75DC56A-F955-4C17-B6C9-3A9039F1CB5A}|Aplicacao\\Aplicacao.csproj|c:\\users\\gabriel\\desktop\\desafioxptotel\\xptotelapi\\aplicacao\\aplicacoes\\handlers\\criarusuariohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A75DC56A-F955-4C17-B6C9-3A9039F1CB5A}|Aplicacao\\Aplicacao.csproj|solutionrelative:aplicacao\\aplicacoes\\handlers\\criarusuariohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F66443-0B8A-45E3-AFFA-4BC6ABD5963A}|XPTOTelApi\\XPTOTelApi.csproj|c:\\users\\gabriel\\desktop\\desafioxptotel\\xptotelapi\\xptotelapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F66443-0B8A-45E3-AFFA-4BC6ABD5963A}|XPTOTelApi\\XPTOTelApi.csproj|solutionrelative:xptotelapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F66443-0B8A-45E3-AFFA-4BC6ABD5963A}|XPTOTelApi\\XPTOTelApi.csproj|c:\\users\\gabriel\\desktop\\desafioxptotel\\xptotelapi\\xptotelapi\\servicos\\injecoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F66443-0B8A-45E3-AFFA-4BC6ABD5963A}|XPTOTelApi\\XPTOTelApi.csproj|solutionrelative:xptotelapi\\servicos\\injecoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustosController.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\DesafioXPTOTel\\XPTOTelApi\\XPTOTelApi\\Controllers\\CustosController.cs",
+              "RelativeDocumentMoniker": "XPTOTelApi\\Controllers\\CustosController.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Desktop\\DesafioXPTOTel\\XPTOTelApi\\XPTOTelApi\\Controllers\\CustosController.cs",
+              "RelativeToolTip": "XPTOTelApi\\Controllers\\CustosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T22:11:37.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\DesafioXPTOTel\\XPTOTelApi\\XPTOTelApi\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "XPTOTelApi\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Desktop\\DesafioXPTOTel\\XPTOTelApi\\XPTOTelApi\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "XPTOTelApi\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T22:11:34.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CalculadoraTestes.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\DesafioXPTOTel\\XPTOTelApi\\XPTOTel.testes\\CalculadoraTestes.cs",
+              "RelativeDocumentMoniker": "XPTOTel.testes\\CalculadoraTestes.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Desktop\\DesafioXPTOTel\\XPTOTelApi\\XPTOTel.testes\\CalculadoraTestes.cs",
+              "RelativeToolTip": "XPTOTel.testes\\CalculadoraTestes.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAswBkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T22:11:02.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ObterCustosHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\DesafioXPTOTel\\XPTOTelApi\\Aplicacao\\Aplicacoes\\Handlers\\ObterCustosHandler.cs",
+              "RelativeDocumentMoniker": "Aplicacao\\Aplicacoes\\Handlers\\ObterCustosHandler.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Desktop\\DesafioXPTOTel\\XPTOTelApi\\Aplicacao\\Aplicacoes\\Handlers\\ObterCustosHandler.cs",
+              "RelativeToolTip": "Aplicacao\\Aplicacoes\\Handlers\\ObterCustosHandler.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAnwBkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T22:09:31.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ObterUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\DesafioXPTOTel\\XPTOTelApi\\Aplicacao\\Aplicacoes\\Consultas\\ObterUsuario.cs",
+              "RelativeDocumentMoniker": "Aplicacao\\Aplicacoes\\Consultas\\ObterUsuario.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Desktop\\DesafioXPTOTel\\XPTOTelApi\\Aplicacao\\Aplicacoes\\Consultas\\ObterUsuario.cs",
+              "RelativeToolTip": "Aplicacao\\Aplicacoes\\Consultas\\ObterUsuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T22:08:24.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ObterCustos.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\DesafioXPTOTel\\XPTOTelApi\\Aplicacao\\Aplicacoes\\Consultas\\ObterCustos.cs",
+              "RelativeDocumentMoniker": "Aplicacao\\Aplicacoes\\Consultas\\ObterCustos.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Desktop\\DesafioXPTOTel\\XPTOTelApi\\Aplicacao\\Aplicacoes\\Consultas\\ObterCustos.cs",
+              "RelativeToolTip": "Aplicacao\\Aplicacoes\\Consultas\\ObterCustos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T22:08:23.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\DesafioXPTOTel\\XPTOTelApi\\XPTOTelApi\\Program.cs",
+              "RelativeDocumentMoniker": "XPTOTelApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Desktop\\DesafioXPTOTel\\XPTOTelApi\\XPTOTelApi\\Program.cs",
+              "RelativeToolTip": "XPTOTelApi\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwB0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T21:54:20.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CriarUsuarioHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\DesafioXPTOTel\\XPTOTelApi\\Aplicacao\\Aplicacoes\\Handlers\\CriarUsuarioHandler.cs",
+              "RelativeDocumentMoniker": "Aplicacao\\Aplicacoes\\Handlers\\CriarUsuarioHandler.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Desktop\\DesafioXPTOTel\\XPTOTelApi\\Aplicacao\\Aplicacoes\\Handlers\\CriarUsuarioHandler.cs",
+              "RelativeToolTip": "Aplicacao\\Aplicacoes\\Handlers\\CriarUsuarioHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T22:08:36.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\DesafioXPTOTel\\XPTOTelApi\\XPTOTelApi\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "XPTOTelApi\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Desktop\\DesafioXPTOTel\\XPTOTelApi\\XPTOTelApi\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "XPTOTelApi\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAIAwwEYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T22:05:25.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Injecoes.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\DesafioXPTOTel\\XPTOTelApi\\XPTOTelApi\\Servicos\\Injecoes.cs",
+              "RelativeDocumentMoniker": "XPTOTelApi\\Servicos\\Injecoes.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Desktop\\DesafioXPTOTel\\XPTOTelApi\\XPTOTelApi\\Servicos\\Injecoes.cs",
+              "RelativeToolTip": "XPTOTelApi\\Servicos\\Injecoes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T21:54:08.961Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
